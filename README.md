@@ -47,5 +47,20 @@
 ### Contato
 
 <div align="center"> 
+
+ 
 <a href="https://www.linkedin.com/in/henrique-vital/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
+
+
+
+
+<div align="center">
+<br><p align="center" ><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Henrique-Vital}/count.svg" /></p> 
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
+
+
+
