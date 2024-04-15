@@ -1,7 +1,10 @@
-@@ -1,39 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
+
+
+
+@@ -1,39 +1,41 @@ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Muito+prazer!!!+Meu+nome+é+Henrique+Vital;Eu+tenho+39+anos;Busco+uma+transição+de+carreira;+:%29)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Vital&bg_color=0d1117&color=00CED1&line=48D1CC&point=48D1CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Habilidades
 <div align="center">
@@ -9,6 +12,9 @@
 </div>
 
 ####
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique-Vital&show_icons=true&count_private=true&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=48D1CC" alt="Henrique Vital github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Vital&layout=compact&hide_border=true&title_color=0d1117&text_color=0d1117&bg_color=48D1CC" />
@@ -19,7 +25,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Henrique-Vital&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
- Projetos principais 
+
+ ### Projetos principais 
+ 
 <br>
 
 <div align="center"> 
@@ -33,7 +41,9 @@
 
 ###
 <!-- Contato -->
+
 ### Contato
+
 <div align="center"> 
 <a href="https://www.linkedin.com/in/henrique-vital/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
